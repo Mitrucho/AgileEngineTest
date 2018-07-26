@@ -1,0 +1,11 @@
+D:\AgileEngine\TEST\src\HtmlAnalyzer\bin\Debug\HtmlAnalyzer.exe.config
+D:\AgileEngine\TEST\src\HtmlAnalyzer\bin\Debug\HtmlAnalyzer.exe
+D:\AgileEngine\TEST\src\HtmlAnalyzer\bin\Debug\HtmlAnalyzer.pdb
+D:\AgileEngine\TEST\src\HtmlAnalyzer\bin\Debug\HtmlAgilityPack.dll
+D:\AgileEngine\TEST\src\HtmlAnalyzer\bin\Debug\HtmlAgilityPack.pdb
+D:\AgileEngine\TEST\src\HtmlAnalyzer\bin\Debug\HtmlAgilityPack.xml
+D:\AgileEngine\TEST\src\HtmlAnalyzer\obj\Debug\HtmlAnalyzer.csprojAssemblyReference.cache
+D:\AgileEngine\TEST\src\HtmlAnalyzer\obj\Debug\HtmlAnalyzer.csproj.CoreCompileInputs.cache
+D:\AgileEngine\TEST\src\HtmlAnalyzer\obj\Debug\HtmlAnalyzer.csproj.CopyComplete
+D:\AgileEngine\TEST\src\HtmlAnalyzer\obj\Debug\HtmlAnalyzer.exe
+D:\AgileEngine\TEST\src\HtmlAnalyzer\obj\Debug\HtmlAnalyzer.pdb
